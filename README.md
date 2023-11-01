@@ -17,7 +17,12 @@ swarm-based intelligence technique. The iterative and stochastic nature of the s
   <img src="lr.png">
   <img src="rf.png">
 </p>
-<h4 align="center">Significant Features reflected using Linear Regression and Random Forest on Dispersive Flies Optimisation</h4>
+<h3 align="center">Significant Features reflected using Linear Regression and Random Forest on Dispersive Flies Optimisation</h4>
+
+<h3>Conclusion</h3>
+
+As the feature selection method was implemented on a swarm-based algorithm on two fitness functions, the DFO algorithm with the random forest as the fitness function was
+the most effective method as it outperformed the baseline predictions of the model. As the goal of this experiment was to identify the most significant factors, the influence of the linear regression model in this field would naturally be not as significant as the random forest model but the fact that even after performing feature selection, the linear regression model error was not shot up (or decreased drastically) instead, the difference was nearly insignificant, thus, giving it the way for it contribute in identifying the features.
 
 <h3>Citations</h3>
 
