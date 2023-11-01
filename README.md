@@ -17,7 +17,7 @@ swarm-based intelligence technique. The iterative and stochastic nature of the s
   <img src="lr.png" width="450">
   <img src="rf.png" width="450">
 </p>
-<h4>Significant Features reflected using Linear Regression and Random Forest on Dispersive Flies Optimisation</h4>
+<h4 align="center">Significant Features reflected using Linear Regression and Random Forest on Dispersive Flies Optimisation</h4>
 
 <h3>Citations</h3>
 
