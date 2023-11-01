@@ -1,6 +1,6 @@
 # Feature selection using swarm intelligence
 
-> Welcome to the implmentation of Feature Selection using Swarm Intelligence - Dispersive Flies Optimisation
+> Welcome to the implementation of Feature Selection using Swarm Intelligence - Dispersive Flies Optimisation
 
 <h3>Disclaimer</h3>
 This project is a <i>novel</i> approach in the respective field with multiple authors having proposed thier own solutions.
